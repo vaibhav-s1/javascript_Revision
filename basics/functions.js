@@ -14,13 +14,13 @@ const arr=[3,4,5]
 
 console.log(arr[1])
 
-const nums=[];
+const nums=[]; 
 nums.push("name")
 nums.unshift('my')
 nums.push("is")
 nums.push("vaibhav")
 
-console.log(nums)
+console.log(nums)   
 
 const obj={ 
     name:"vaibhav",
